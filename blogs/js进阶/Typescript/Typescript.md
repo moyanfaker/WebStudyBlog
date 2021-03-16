@@ -443,9 +443,9 @@ vue/cli     			path          	npm i -g @vue/cli
 
 #### 项目结构分析
 
-![项目分析1](E:\desktop\web学习\vuebasic\my-blog\blogs\js进阶\Typescript\项目分析1.png)
+![项目分析1](./项目分析1.png)
 
-![项目分析2](E:\desktop\web学习\vuebasic\my-blog\blogs\js进阶\Typescript\项目分析2.png)
+![项目分析2](./项目分析2.png)
 
 #### 项目代码实现
 
