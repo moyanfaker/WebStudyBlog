@@ -62,7 +62,7 @@ publish: True
 
 3. 设置 vscode 监视任务
 
-![image-20210123101347876](C:\Users\92487\AppData\Roaming\Typora\typora-user-images\image-20210123101347876.png)
+![image-20210123101347876](./image-20210123101347876.png)
 
 ### 2.TypeScript 变量与数据类型
 
